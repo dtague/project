@@ -1,0 +1,25 @@
+.common {
+    background-color:white;
+    position:absolute
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    height: 450px;
+}
+
+.footer {
+    bottom: 1px;
+    left: 2px;
+    right: 2px;
+    position:fixed;
+}

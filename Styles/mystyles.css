@@ -1,0 +1,21 @@
+P{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: cadetblue;
+    font-style: italic;
+    text-align: justify;
+}
+
+li{
+    font-size: 25px;
+    color: cadetblue;
+    text-align: justify;
+    font-style: italic;
+
+}
+
+header{
+    font-style: italic;
+    font-size: 22px;
+    text-align: justify;
+}
